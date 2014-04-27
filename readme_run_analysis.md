@@ -1,0 +1,1 @@
+## This script presumes the source dataset is already downloaded and unzipped under the directory "./ UCI HAR Dataset". This script will create and save a tidy data set as a text file named "tidyData.txt" under the current directory according to the instructions in the project description.
